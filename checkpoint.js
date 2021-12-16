@@ -6,6 +6,8 @@ function mayorMenosMenor(arr) {
     //
     // Tu código:
 
+    if (num)
+
 };
 
 function ingredienteEnMalEstado(menu, comida, ingrediente) {
